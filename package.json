@@ -20,8 +20,14 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
+    "@helgoland/caching": "0.0.1-alpha.51",
+    "@helgoland/core": "0.0.1-alpha.51",
+    "@helgoland/map": "0.0.1-alpha.51",
+    "@types/leaflet": "^1.2.7",
     "core-js": "^2.5.4",
+    "leaflet": "^1.3.1",
     "rxjs": "^6.0.0",
+    "rxjs-compat": "^6.2.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
